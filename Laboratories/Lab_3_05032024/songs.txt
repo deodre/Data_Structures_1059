@@ -1,0 +1,5 @@
+4
+1,MasterOfPuppets,Metallica,0.456
+2,Raining Blood,Slayer,0.616
+3,Mein Herz brennt,Rammstein,0.743
+4,Du Hast,Rammstein,0.621
